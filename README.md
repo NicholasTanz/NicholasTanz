@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicholasTanz 
-- 👀 I’m interested in machine learning algorithms and cybersecurity capture the flag events.
+- 👀 I’m interested in...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me! my email is: nicholastanzillo@gmail.com 
 
