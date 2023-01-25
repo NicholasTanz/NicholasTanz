@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicholasTanz 
-- 👀 I’m interested in...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in cybersecurity & backend web dev. 
+- 🌱 I’m currently learning data structures & algos.! 
 - 📫 How to reach me! my email is: nicholastanzillo@gmail.com 
 
 <!---
