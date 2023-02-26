@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicholasTanz 
-- 👀 I’m interested in cybersecurity (cryptography & CTF!) & backend web dev. 
+- 👀 I’m interested in cybersecurity (CTF) & backend web dev. 
 - 🌱 I’m currently learning data structures / algos in my own time & taking ECE 264 to dive more into C.
 - 📫 How to reach me! my email is: nicholastanzillo@gmail.com & linkedin: https://www.linkedin.com/in/nicholas-tanzillo-a90918237/
 - 🌃 If you're an employer and there is more private repos / programs you would like to see, please contact me above! 🌃
